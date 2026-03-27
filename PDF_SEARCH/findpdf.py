@@ -5,7 +5,7 @@ import numpy as np
 import re
 from unidecode import unidecode   
 
-folder_path = r"đường dẫn ở đây"
+folder_path = r"đường dẫn ở đây" 
 
 user_input = input("Nhập từ khóa cần tìm: ")
 
