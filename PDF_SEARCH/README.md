@@ -2,7 +2,7 @@
 ### Cấu trúc
 ```
 Script_Python/
-└── PDF_Keyword/
+└── PDF_SEARCH/
     ├── findpdf.py
     ├── README.md
     └── requirements.txt
