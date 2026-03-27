@@ -5,7 +5,7 @@ import numpy as np
 import re
 from unidecode import unidecode   
 
-folder_path = r"/home/h2dro/Downloads/pdf"
+folder_path = r"đường dẫn ở đây"
 
 user_input = input("Nhập từ khóa cần tìm: ")
 
