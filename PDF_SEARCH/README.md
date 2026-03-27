@@ -10,4 +10,4 @@ Script_Python/
 ### requirements
 Khởi tạo
 `pip install -r requirements.txt`
-thay đôi đường dẫn trong `findpdf.py`
+thay đổi đường dẫn trong `findpdf.py`
