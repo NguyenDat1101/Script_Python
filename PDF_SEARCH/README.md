@@ -1,4 +1,4 @@
-## GIỚI Thiệu
+## Giới Thiệu
 ### Cấu trúc
 ```
 Script_Python/
